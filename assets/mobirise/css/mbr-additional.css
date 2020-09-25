@@ -519,8 +519,7 @@ a.text-black:focus {
 }
 a,
 a:hover {
-  color: #285a81;
-  text-decoration: underline;
+  color: #2774ae;
 }
 .mbr-plan-header.bg-primary .mbr-plan-subtitle,
 .mbr-plan-header.bg-primary .mbr-plan-price-desc {
